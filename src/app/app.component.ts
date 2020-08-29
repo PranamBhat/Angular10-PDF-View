@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  pdfSource = "https://github.com/PranamBhat/Angular10-PDF-View/pdf/Test.pdf";
+  pdfSource = "https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf";
 }
